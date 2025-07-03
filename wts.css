@@ -17,59 +17,6 @@ body{
     }
 
 
-/*
-.nav{
-    background-color: #000000;
-    list-style-type: none;
-    text-align:end;
-    margin: 0;
-    padding: 1px;
-    font-size: 150%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-top:0;
-
-    position
-    :relative;
-   
-/*
-display: flex;
-width:100%;
-align-items: center;
-justify-content: space-between
-}
-    
-.tituloh1{
-font-size: 40px;
-position: absolute;
-left: 0;
-color: white;
-justify-content: left;
-margin-right: 10%;
-    font-family: "Anton SC", sans-serif;
-/*right:0;
-    font-style: normal;
-    z-index:100;
-    
-}
-    
-    .nav li{
-    display:inline  ;
-    font-size: 20px;
-    padding: 5px;
-  align-items: end;
-    }
-    
-.nav a{
-align-items: start;
-}
-
-.li{
-    margin-right: 40px;
-margin-top: 50px;}
-
-
-*/
-
 
 #menu-icon{
 color: white;
